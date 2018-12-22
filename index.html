@@ -1,10 +1,157 @@
 <!DOCTYPE html>
-<html>
-<body>
-<center>
-<h1>Hello World</h1>
-<p>New website on GitHub Pages. It works!</p>
-<p>* * * * * * *</p>
-</center>
-</body>
+<html lang="ru">
+
+  <head>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="flymon, flyrouter, zftlab, monitoring, time series, alerting, metrics, openipc, telemetry">
+    <meta name="description" content="FlyBlog">
+    <meta name="author" content="ZFT Lab.">
+
+    <title>FlyBlog</title>
+
+    <!-- Le styles from GUS for images and comments -->
+    <!--link href="/assets/bootstrap/css/bootstrap-spacelab.min.css" rel="stylesheet">
+    <link href="/assets/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet"  type="text/css" -->
+
+    <style>
+      body {
+        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+      }
+    </style>
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- Site icon -->
+    <link rel="shortcut icon" type="image/vnd.microsoft.icon" href="/assets/images/favicon.ico" />
+
+    <!-- Bootstrap Core CSS -->
+    <link href="/assets/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+
+    <!-- Bootswatch CSS -->
+    <!-- link href="/assets/bootswatch/css/bootswatch_cerulean.css" rel="stylesheet" type="text/css" -->
+
+    <!-- Custom styles for this template -->
+    <link href="/assets/microblog/css/microblog.css" rel="stylesheet" type="text/css">
+
+    <!-- Font Awesome -->
+    <link href="/assets/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+  </head>
+
+
+  <body>
+
+    <!-- nav class="navbar navbar-default navbar-static-top" -->
+    <!-- nav class="navbar navbar-default navbar-fixed-top" -->
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+      <!-- div class="container-fluid" -->
+      <div class="container">
+
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="/"><i class="fa fa-flask"></i> OpenIPC</a>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+          <ul class="nav navbar-nav navbar-right">
+
+        <!-- Collection <i class="fa fa-line-chart"></i> <i class="fa fa-key"></i> <i class="fa fa-leaf"></i>  <i class="fa fa-bullhorn"></i> <i class="fa fa-wrench"></i> -->
+
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> О ресурсе<span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="/survey"><i class="fa fa-book"></i> &nbsp; Страницы</a></li>
+                <li role="separator" class="divider"></li>
+                <li><a href="/tags"><i class="fa fa-list"></i> &nbsp; Теги</a></li>
+                <li role="separator" class="divider"></li>
+                <li><a href="/news"><i class="fa fa-newspaper-o"></i> &nbsp; Новости</a></li>
+                <li role="separator" class="divider"></li>
+                <li><a href="/technology"><i class="fa fa-cogs"></i> &nbsp; Технологии</a></li>
+                <li role="separator" class="divider"></li>
+                <li><a href="/contacts"><i class="fa fa-address-book-o"></i> &nbsp; Контакты</a></li>
+                <!-- li role="separator" class="divider"></li>
+                <li><a href="/store"> Магазин</a></li -->
+                <!-- li role="separator" class="divider"></li>
+                <li><a href="/resume">  Resume</a></li -->
+              </ul>
+            </li>
+
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> ZFT Lab.<span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="http://zftlab.org/categories.html"><i class="fa fa-book"></i> &nbsp; Все статьи</a></li>
+                <li role="separator" class="divider"></li>
+                <li><a href="http://zftlab.org/contacts.html"><i class="fa fa-address-book-o"></i> &nbsp; Контакты</a></li>
+                <li role="separator" class="divider"></li>
+                <li><a href="http://zftlab.org/partners.html"><i class="fa fa-user-secret"></i> &nbsp; Партнёры</a></li>
+                <li role="separator" class="divider"></li>
+                <li><a href="http://zftlab.org/store.html"><i class="fa fa-shopping-cart"></i> &nbsp; Магазин</a></li>
+                <li role="separator" class="divider"></li>
+                <li><a href="http://blog.flyrouter.net"><i class="fa fa-google"></i> &nbsp; Blogger page</a></li>
+                <li role="separator" class="divider"></li>
+                <li><a href="https://github.com/ZigFisher?tab=repositories"> <i class="fa fa-github"></i> &nbsp; GitHub</a></li>
+                <li role="separator" class="divider"></li>
+                <li><a href="https://money.yandex.ru/to/410011741171832"><i class="fa fa-money"></i> &nbsp; YandexMoney</a></li>
+              </ul>
+            </li>
+
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> Файлы<span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="http://zftlab.org/files.html"><i class="fa fa-diamond"></i> &nbsp; Архив ZFT Lab.</a></li>
+                <li role="separator" class="divider"></li>
+                <li><a href="http://flyrouter.net/downloads/software/"><i class="fa fa-diamond"></i> &nbsp; Архив FlyRouter</a></li>
+              </ul>
+            </li>
+
+
+          </ul>
+        </div><!-- /.navbar-collapse -->
+      </div><!-- /.container-fluid -->
+    </nav>
+
+
+    <!-- Page Content -->
+    <div class="container">
+
+      <!-- MicroBlog content -->
+      <div class="main">
+        <div id="content"></div>
+      </div>
+
+      <footer>
+        <hr>
+        <p class="pull-left">FlyBlog &copy; 2017 v.0.3a</p>
+        <p class="pull-right">Created by <a href="http://zftlab.org" title="Go to ZFTLab.org">ZFT Lab.</a></p>
+      </footer>
+
+    </div><!-- /.container -->
+
+
+    <!-- jQuery -->
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="/assets/bootstrap/js/bootstrap.min.js"></script>
+
+    <!-- MicroBlog -->
+    <script src="/assets/microblog/js/textile.min.js"></script>
+    <script src="/assets/microblog/js/microblog.js"></script>
+
+  </body>
+
 </html>

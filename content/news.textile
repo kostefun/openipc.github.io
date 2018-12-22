@@ -5,5 +5,5 @@ h3. Новости
 
 h4. Хронология
 
-* 2018.12.22 На базе "GitHub pages":https://pages.github.com создан мини-сайт по созданию документации - "openipc.github.io":https://github.com/OpenIPC/openipc.github.io
+* 2018.12.22 На базе "GitHub pages":https://pages.github.com создан мини-сайт по ведению документации - "openipc.github.io":https://github.com/OpenIPC/openipc.github.io
 * 2018.12.22 На "GitHub":https//github.com создана новая публичная организация - "OpenIPC":https://github.com/OpenIPC

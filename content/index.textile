@@ -18,3 +18,11 @@ p. "IPCam modding":https://t.me/joinchat/FhtyHxDpQsv8HlRliQDgqw - обсужде
 p. "OpenWrt for IPCam":https://t.me/joinchat/FhtyHwrU0fwfQlAkvoeVJA - обсуждение портирования HiSilicon в OpenWrt и другие вопросы программистов.
 
 p. "ExIPCam users":https://t.me/ExIPCam - обсуждение программы ExIPCam для бекапа и восстановления устройств с загрузчиком U-boot.
+
+---
+
+h4. Партнёрские проекты
+
+p. "Octonix IPCam":http://ipcam.octonix.net - открытая система сбора и отображения полученных снапшотов с камер
+
+

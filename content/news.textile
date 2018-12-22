@@ -5,8 +5,5 @@ h3. Новости
 
 h4. Хронология
 
-* 2017.05.28 Все компоненты системы теперь работают только по SSL
-* 2017.05.27 На сервер установлены сертификаты от "Let’s Encrypt":https://letsencrypt.org/
-* 2017.03.27 На новый сайт переведены домен "esp8266.flymon.net":http://esp8266.flymon.net
-* 2017.03.21 На новый сайт переведены домены "esp8266.pw":http://esp8266.pw и "monitor.flymon.net":http://monitor.flymon.net
-* 2017.03.20 Запущена тестовая версия обновлённого сайта на домене "araneus.flymon.net":http://araneus.flymon.net
+* 2018.12.22 На базе "GitHub pages":https//github.com создан мини-сайт по созданию документации - "openipc.github.io":https://github.com/OpenIPC/openipc.github.io
+* 2018.12.22 На "GitHub":https//github.com создана новая публичная организация - "OpenIPC":https://github.com/OpenIPC

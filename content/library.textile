@@ -6,3 +6,7 @@ h3. Библиотека устройств
 h4. Платы XM
 
 p=. !/images/board_pinout_0001.jpg!
+
+p=. !/images/board_pinout_0002.jpg!
+
+p=. !/images/board_pinout_0003.jpg!

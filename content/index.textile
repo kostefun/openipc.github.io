@@ -12,3 +12,7 @@ p. На данный момент можно перейти по ссылкам 
 h4. Группы в Telegram
 
 p. "IPCam modding":https://t.me/joinchat/FhtyHxDpQsv8HlRliQDgqw - обсуждение общих вопросов по модификации прошивок устройств
+
+p. "OpenWrt for IPCam":https://t.me/joinchat/FhtyHwrU0fwfQlAkvoeVJA - обсуждение портирования HiSilicon в OpenWrt и другие вопросы программистов
+
+p. "ExIPCam users":https://t.me/ExIPCam - обсуждение программы ExIPCam для бекапа и восстановления устройств с загрузчиком U-boot

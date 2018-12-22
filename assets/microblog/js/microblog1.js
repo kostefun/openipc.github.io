@@ -12,7 +12,7 @@ $(document).ready(function(){
     path = path.replace(/\//gi, '')
     // console.log("path: ", path)
 
-    var url = "/pages/" + path + ".textile";
+    var url = "/content/" + path + ".textile";
     $.ajax({
       url: url,
     }).done( function(data) {

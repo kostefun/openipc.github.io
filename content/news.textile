@@ -5,6 +5,8 @@ h3. Новости
 
 h4. Хронология
 
+p. 2018.12.22 | В репозиторий "Glutinium":https://github.com/ZigFisher/Glutinium добавлен пакет "sstgb":https://github.com/ZigFisher/Glutinium/tree/master/sstgb предназначенный для отправки сообщений в Telegram
+
 p. 2018.12.22 | На базе "GitHub pages":https://pages.github.com создан мини-сайт по ведению документации - "openipc.github.io":https://github.com/OpenIPC/openipc.github.io
 
 p. 2018.12.22 | На "GitHub":https//github.com создана новая публичная организация - "Open IPCam Project":https://github.com/OpenIPC

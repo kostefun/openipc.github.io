@@ -5,7 +5,7 @@ h3. Новости
 
 h4. Хронология
 
-p. 2018.12.23 | На файловый архив "FlyRouter":http://flyrouter.net/downloads/software/ipcam/GitHub_OpenWrt/ выложены обновления всех пакетов в формате .opkg и тестовых прошивок для IPCam на базе OpenWrt
+p. 2018.12.23 | На файловый архив "FlyRouter":http://flyrouter.net/downloads/software/ipcam/GitHub_OpenWrt/ выложены обновления пакетов и прошивок для IPCam на базе OpenWrt
 
 p. 2018.12.23 | В репозиторий "Glutinium":https://github.com/ZigFisher/Glutinium добавлен пакет "sstgb":https://github.com/ZigFisher/Glutinium/tree/master/sstgb предназначенный для отправки сообщений в Telegram
 

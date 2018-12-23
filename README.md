@@ -1,2 +1,2 @@
 # openipc.github.io
-OpenIPC - official project pages
+Open IPCam Project - official pages

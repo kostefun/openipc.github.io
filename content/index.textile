@@ -23,15 +23,15 @@ p. "ExIPCam users":https://t.me/ExIPCam - обсуждение программ�
 
 h4. Репозитории, имеющие отношение к проекту OpenIPC
 
-p. "OpenWrt Chaos Calmer for HiSilicon":https://github.com/ZigFisher/chaos_calmer - форк OpenWrt и основной архив проекта для HiSilicon IPC и NVR
+p. "OpenWrt Chaos Calmer for HiSilicon":https://github.com/ZigFisher/chaos_calmer - форк OpenWrt и основной архив проекта для HiSilicon IPC и NVR.
 
-p. "Glutinium from ZFT Lab.":https://github.com/ZigFisher/Glutinium - подборка програмного обеспечения (feed) для использования в видеокамерах и роутерах
+p. "Glutinium from ZFT Lab.":https://github.com/ZigFisher/Glutinium - подборка програмного обеспечения (feed) для использования в видеокамерах и роутерах.
 
 ---
 
 h4. Ссылки на архивы и прошивки
 
-p. "OpenWrt HiSilicon archive":http://flyrouter.net/downloads/software/ipcam/GitHub_OpenWrt/ - архив прошивок и программ для OpenWrt HiSilicon IPC и NVR
+p. "OpenWrt HiSilicon archive":http://flyrouter.net/downloads/software/ipcam/GitHub_OpenWrt/ - архив прошивок и программ для OpenWrt HiSilicon IPC и NVR.
 
 ---
 

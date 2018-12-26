@@ -29,7 +29,13 @@ p. "Glutinium from ZFT Lab.":https://github.com/ZigFisher/Glutinium - подбо
 
 ---
 
-h4. Наши партнёрские проекты
+h4. Ссылки на архивы и прошивки
+
+p. "OpenWrt HiSilicon archive":http://flyrouter.net/downloads/software/ipcam/GitHub_OpenWrt/ - архив прошивок и программ для OpenWrt HiSilicon IPC и NVR
+
+---
+
+h4. Демонстрация партнёрских проектов
 
 p. "Octonix IPCam":http://ipcam.octonix.net - открытая система сбора и отображения полученных снапшотов с камер.
 

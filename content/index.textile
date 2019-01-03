@@ -5,9 +5,7 @@ h3. Welcome !
 
 h4. Введение
 
-p. Тестовая версия страницы с документацией по проекту <a href="https://github.com/OpenIPC">OpenIPC</a>.
-
-p. На данный момент можно перейти по ссылкам в меню на сервисы, которые в дальнейшем будут собраны на данном ресурсе.
+p. Базовая версия стартовой страницы с сылками на документацию по проекту <a href="https://github.com/OpenIPC">OpenIPC</a>.
 
 p. Работа с IPCam, NVR, как и с роутерами, затрагивает некоторые фундаментальные вещи относящиеся к Linux, которые нет смысла добавлять в Wiki, достаточно привести основные ссылки на внешние ресурсы.
 
@@ -69,7 +67,7 @@ p. "OpenWrt HiSilicon archive":http://flyrouter.net/downloads/software/ipcam/Git
 
 h4. Ссылки на архивы Hisilicon MPP, SDK и документацию
 
-p. "Hisilicon HI35xx MPP collection":https://github.com/ZigFisher/hisilicon_mpp - обновляемая коллекция MPP из Hisilicon SDK
+p. "Hisilicon HI35xx MPP collection":https://github.com/ZigFisher/hisilicon_mpp - наша обновляемая коллекция MPP из Hisilicon SDK.
 
 p. "Some SDK archive":https://yadi.sk/d/bFlKO3843SFV8v/SDK - небольшая подборка SDK на процессоры Hisilicon, без документации.
 

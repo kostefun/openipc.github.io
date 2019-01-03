@@ -39,15 +39,15 @@ h4. Информация из блога ZFT Lab.
 
 
 
-p. "Telegram, MQTT, Яндекс.Диск, WiFi и т.д. в IP камерах от Xiong Mai":https://zftlab.org/pages/2018010700.html
+p. "Telegram, MQTT, Яндекс.Диск, WiFi и т.д. в IP камерах от Xiong Mai":https://zftlab.org/pages/2018010700.html - с чего начинался проект.
 
-p. "Трюки и хаки при экспериментах с IPCam от Xiong Mai":https://zftlab.org/pages/2018020100.html
+p. "Трюки и хаки при экспериментах с IPCam от Xiong Mai":https://zftlab.org/pages/2018020100.html - это желательно знать и уметь каждому.
 
-p. "Запуск Buildroot и OpenWrt на устройствах с SoC Hisilicon":https://zftlab.org/pages/2018020900.html
+p. "Запуск Buildroot и OpenWrt на устройствах с SoC Hisilicon":https://zftlab.org/pages/2018020900.html - подборка заметок при экспериментах.
 
-p. "Хакинг IP-камер на базе SoC HI3518":https://zftlab.org/pages/2015090300.html
+p. "Хакинг IP-камер на базе SoC HI3518":https://zftlab.org/pages/2015090300.html - первичные заметки несколько лет назад.
 
-p. "Управление домашней автоматизацией через Telegram":https://zftlab.org/pages/2017082100.html
+p. "Управление домашней автоматизацией через Telegram":https://zftlab.org/pages/2017082100.html - краткая инструкция.
 
 ---
 

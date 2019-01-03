@@ -27,6 +27,8 @@ p. "OpenWrt Chaos Calmer for HiSilicon":https://github.com/ZigFisher/chaos_calme
 
 p. "Glutinium from ZFT Lab.":https://github.com/ZigFisher/Glutinium - подборка програмного обеспечения (feed) для использования в видеокамерах и роутерах.
 
+p. "OpenIPC Wiki":https://github.com/OpenIPC/openipc.github.io - репозиторий вики проекта (данный материал).
+
 ---
 
 h4. Ссылки на архивы и прошивки
@@ -37,15 +39,15 @@ p. "OpenWrt HiSilicon archive":http://flyrouter.net/downloads/software/ipcam/Git
 
 h4. Ссылки на архивы Hisilicon MPP, SDK и документацию
 
-p. "Some SDK archive":https://yadi.sk/d/bFlKO3843SFV8v/SDK - небольшая подборка SDK на процессоры Hisilicon, без документации
+p. "Some SDK archive":https://yadi.sk/d/bFlKO3843SFV8v/SDK - небольшая подборка SDK на процессоры Hisilicon, без документации.
 
-p. "Some SDK documentation":http://flyrouter.net/downloads/software/ipcam/SDK_documents/ - небольшая подборка документации от SDK на процессоры Hisilicon
+p. "Some SDK documentation":http://flyrouter.net/downloads/software/ipcam/SDK_documents/ - небольшая подборка документации от SDK на процессоры Hisilicon.
 
-p. "OpenWrt Hisilicon SDK":http://flyrouter.net/downloads/software/ipcam/GitHub_OpenWrt/SDK/ - наш собственный SDK для Hisilicon на базе OpenWrt 
+p. "OpenWrt Hisilicon SDK":http://flyrouter.net/downloads/software/ipcam/GitHub_OpenWrt/SDK/ - наш собственный SDK для Hisilicon на базе OpenWrt. 
 
 ---
 
-h4. *Демонстрация проектов от коллег*
+h4. Демонстрация проектов от коллег
 
 p. "Octonix IPCam":http://ipcam.octonix.net - открытая система сбора и отображения полученных снапшотов с камер.
 

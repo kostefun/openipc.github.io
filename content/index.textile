@@ -75,6 +75,12 @@ p. "OpenWrt Hisilicon SDK":http://flyrouter.net/downloads/software/ipcam/GitHub_
 
 ---
 
+h3. Избранные ссылки с Telegram канала
+
+p. "xmeye sofia dvr nvr ipcam config":https://github.com/NeiroNx/python-dvr - массовое управление IPC и NVR через python скрипт.
+
+---
+
 h3. Демонстрация проектов от коллег
 
 p. "Octonix IPCam":http://ipcam.octonix.net - открытая система сбора и отображения полученных снапшотов с камер.

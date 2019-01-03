@@ -15,12 +15,13 @@ p. Работа с IPCam, NVR, как и с роутерами, затрагив
 
 h4. Цели проекта
 
-p. Тестовая версия и сбор пожеланий
+p. Упорядочить информацию по платам IPCam и NVR на базе SoC HI35xx от Hisilicon.
 
-* Упорядочить информацию по платам IPCam и NVR на базе SoC HI35xx от Hisilicon.
-* Отработать методы разборки и сборки после модификации оригинальных прошивок для IPCam и NVR.
-* Создать для устройств открытую (на сколько позволяют китайские модули ядра) прошивку на базе OpenWrt.
-* Создать WEB-коструктор прошивок/дампов по образу и подобию дружественного проекта "WiFi-IoT.com.":http://wifi-iot.com
+p. Отработать методы разборки и сборки после модификации оригинальных прошивок для IPCam и NVR.
+
+p. Создать для устройств открытую (на сколько позволяют китайские модули ядра) прошивку на базе OpenWrt.
+
+p. Создать WEB-коструктор прошивок/дампов по образу и подобию дружественного проекта "WiFi-IoT.com.":http://wifi-iot.com
 
 ---
 
@@ -31,6 +32,22 @@ p. "IPCam modding":https://t.me/joinchat/FhtyHxDpQsv8HlRliQDgqw - обсужде
 p. "OpenWrt for IPCam":https://t.me/joinchat/FhtyHwrU0fwfQlAkvoeVJA - обсуждение портирования HiSilicon в OpenWrt и другие вопросы программистов.
 
 p. "ExIPCam users":https://t.me/ExIPCam - обсуждение программы ExIPCam для бекапа и восстановления устройств с загрузчиком U-boot.
+
+---
+
+h4. Информация из блога ZFT Lab.
+
+
+
+p. "Telegram, MQTT, Яндекс.Диск, WiFi и т.д. в IP камерах от Xiong Mai":https://zftlab.org/pages/2018010700.html
+
+p. "Трюки и хаки при экспериментах с IPCam от Xiong Mai":https://zftlab.org/pages/2018020100.html
+
+p. "Запуск Buildroot и OpenWrt на устройствах с SoC Hisilicon":https://zftlab.org/pages/2018020900.html
+
+p. "Хакинг IP-камер на базе SoC HI3518":https://zftlab.org/pages/2015090300.html
+
+p. "Управление домашней автоматизацией через Telegram":https://zftlab.org/pages/2017082100.html
 
 ---
 
@@ -51,6 +68,8 @@ p. "OpenWrt HiSilicon archive":http://flyrouter.net/downloads/software/ipcam/Git
 ---
 
 h4. Ссылки на архивы Hisilicon MPP, SDK и документацию
+
+p. "Hisilicon HI35xx MPP collection":https://github.com/ZigFisher/hisilicon_mpp - обновляемая коллекция MPP из Hisilicon SDK
 
 p. "Some SDK archive":https://yadi.sk/d/bFlKO3843SFV8v/SDK - небольшая подборка SDK на процессоры Hisilicon, без документации.
 

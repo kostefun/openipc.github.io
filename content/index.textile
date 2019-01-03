@@ -57,7 +57,7 @@ p. "OpenIPC Wiki":https://github.com/OpenIPC/openipc.github.io - репозит�
 
 ---
 
-h3. Ссылки на архивы и прошивки
+h3. Ссылки на наши архивы и прошивки
 
 p. "OpenWrt HiSilicon archive":http://flyrouter.net/downloads/software/ipcam/GitHub_OpenWrt/ - архив прошивок и программ для OpenWrt HiSilicon IPC и NVR.
 

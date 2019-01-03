@@ -45,7 +45,7 @@ p. "OpenWrt Hisilicon SDK":http://flyrouter.net/downloads/software/ipcam/GitHub_
 
 ---
 
-h4. Демонстрация проектов от коллег
+h4. *Демонстрация проектов от коллег*
 
 p. "Octonix IPCam":http://ipcam.octonix.net - открытая система сбора и отображения полученных снапшотов с камер.
 

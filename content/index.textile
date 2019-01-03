@@ -75,23 +75,23 @@ p. "OpenWrt Hisilicon SDK":http://flyrouter.net/downloads/software/ipcam/GitHub_
 
 ---
 
-h3(#demo_colleagues). Демонстрация проектов от коллег
+h3. Демонстрация проектов от коллег
 
 p. "Octonix IPCam":http://ipcam.octonix.net - открытая система сбора и отображения полученных снапшотов с камер.
 
 ---
 
-h3(#thanks_company). Благодарности организациям
+h3. Благодарности организациям
 
 p. Компании "Крыминфоком":http://www.crimeainfo.com/ и лично *Олегу Будникову*, @boleg, за предоставленную технику для экспериментов.
 
-p. Компании "MultiXvision":http://multixvision.ru/ и лично *Александру Мельтьеву*, @multixvision, за предоставленную технику для экспериментов.
+p. Компании "MultiXvision":http://multixvision.ru/ и лично *Александру Мельтьеву*, @multixvision, за предоставленную технику.
 
 p. Компании "Garus":http://www.garusmicro.ru/ и лично *Дмитрию Захаревич*, @garusmicro, за предоставленную технику для экспериментов.
 
 ---
 
-h3(#thanks_colleagues). Благодарности коллегам
+h3. Благодарности коллегам
 
 p. *Андрею Сухорукову*, @BurtonPower, за различную техническую помощь и консультации.
 

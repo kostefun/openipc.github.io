@@ -31,6 +31,8 @@ p. "OpenWrt for IPCam":https://t.me/joinchat/FhtyHwrU0fwfQlAkvoeVJA - обсуж
 
 p. "ExIPCam users":https://t.me/ExIPCam - обсуждение программы ExIPCam для бекапа и восстановления устройств с загрузчиком U-boot.
 
+p. "ZFT Lab. Telegram bot":https://t.me/joinchat/FhtyHw3wQVxqhWEE05sYKA - тестовый бот с кнопками, после подключения дать команду */start*
+
 ---
 
 h3. Информация из блога ZFT Lab.

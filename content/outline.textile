@@ -16,6 +16,10 @@ p. 1
 
 p. 2
 
+p. * Сделать грязный патч от Hisilicon для ядра 3.18.20
+
+p. * -Сделать грязный патч от Hisilicon для ядра 3.0.8-
+
 ---
 
 h3. MPP & OSDRV - компоненты SDK от Hisilicon
@@ -26,7 +30,7 @@ p. 2
 
 p. -3-
 
-p. Выложить все имеющиеся "версии":https://github.com/ZigFisher/hisilicon_mpp Hisilicon MPP и OSDRV на "GitHub":https://github.com/ZigFisher
+p. * Выложить все имеющиеся "версии":https://github.com/ZigFisher/hisilicon_mpp Hisilicon MPP и OSDRV на "GitHub":https://github.com/ZigFisher
 
 ---
 

@@ -4,21 +4,25 @@ h1. План работ
 
 h3. U-Boot - загрузчик, разделы, новые фичи
 
-p. 1
+p. !
 
-p. 2
+p. Добавить в загрузчик фичи по WEB-интерфейсу и возможности управления через UDP
+
+p. Перенести сборку рабочего U-boot для Hisilicon из Buildroot в OpenWrt
 
 ---
 
 h3. Linux kernel - создание патчей и модулей ядра
 
-p. 1
+p. !
 
-p. 2
+p. !
 
-p. * Сделать грязный патч от Hisilicon для ядра 3.18.20
+p. Сделать грязный патч от Hisilicon для ядра 3.18.20 к armv5tej устройствам v3
 
-p. * -Сделать грязный патч от Hisilicon для ядра 3.0.8-
+p. -Сделать грязный патч от Hisilicon для ядра 3.4.35 к armv5tej устройствам v2-
+
+p. -Сделать грязный патч от Hisilicon для ядра 3.0.8 к armv5tej устройствам v1-
 
 ---
 
@@ -28,9 +32,7 @@ p. 1
 
 p. 2
 
-p. -3-
-
-p. * Выложить все имеющиеся "версии":https://github.com/ZigFisher/hisilicon_mpp Hisilicon MPP и OSDRV на "GitHub":https://github.com/ZigFisher
+p. Выложить все имеющиеся "версии":https://github.com/ZigFisher/hisilicon_mpp Hisilicon MPP и OSDRV на "GitHub":https://github.com/ZigFisher
 
 ---
 

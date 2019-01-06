@@ -1,1 +1,28 @@
-DOT
+h2. Outline
+
+---
+
+h3. U-Boot
+
+p. 1
+
+p. 2
+
+---
+
+h3. Linux kernel
+
+p. 1
+
+p. 2
+
+---
+
+h3. MPP & OSDRV
+
+p. 1
+
+p. 2
+
+p. -3-
+

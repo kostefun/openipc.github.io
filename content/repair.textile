@@ -6,45 +6,45 @@ h5(. Tags: "project":/tags#project | "repair":/tags#repair
 
 h4. Наиболее часто используемые компоненты
 
-|_=. Маркировка     |_=. Выводы |_=. В каталоге |_=. Aliexpress |
-|_\4=. Хрень №1                                             |
-|=. 9141P           |=. 5       |               |               |
-|=. 9141M           |=. 5       |               |               |
-|=. A30F            |=. 5       |               |               |
-|=. A3QH            |=. 5       |               |               |
-|=. A70D            |=. 5       |               |               |
-|=. A7QH            |=. 5       |               |               |
-|=. AJ0G            |=. 5       |               |               |
-|=. AJPB            |=. 5       |               |               |
-|=. CIDI            |=. 5       |               |               |
-|=. DG6X            |=. 5       |               |               |
-|=. FA265K          |=. 5       |               |               |
-|=. FA26UK          |=. 5       |               |               |
-|=. F40117          |=. 5       |               |               |
-|=. F43311          |=. 5       |               |               |
-|=. F45307          |=. 5       |               |               |
-|=. F46301          |=. 5       |               |               |
-|=. F59101          |=. 5       |               |               |
-|=. IC5EA           |=. 5       |               |               |
-|=. IC5ED           |=. 5       |               |               |
-|=. IC5FA           |=. 5       |               |               |
-|=. ISIK            |=. 5       |               |               |
-|=. LD5HV           |=. 5       |=. SY8088AAC   | "1":https://www.aliexpress.com/item/20PCS-SY8088AAC-SY8088AA-SY8088A-SY8088-SOT23-5/32242422836.html               |
-|=. LD7LB           |=. 5       |               |               |
-|_\4=. Хрень № 2                                            |
-|=. C160J           |=. 6       |               |               |
-|=. C16SH           |=. 6       |               |               |
-|=. C16ZJ           |=. 6       |               |               |
-|=. C20AJ           |=. 6       |               |               |
-|=. IADJx (D,E,G)   |=. 6       |=. "MP1470GJ":https://www.alldatasheet.com/datasheet-pdf/pdf/551563/MPS/MP1470GJ.html      | "1":https://www.aliexpress.com/item/10pcs-lot-New-MP1470-MP1470GJ-LF-Z-SOT23-6-IADJD-IADIE-Switching-supply-chip/32894587266.html ; "2":https://ru.aliexpress.com/item/Adje-adjd-adjf-adjg-MP1470GJ-MP1470-23-6-10/32865175022.html            |
-|=. J331            |=. 6       |               |               |
-|=. V05             |=. 6       |               |               |
-|_\4=. Хрень № 3                                            |
-|=. IAELx (F,G,H)   |=. 8       |=. "MP2314GJ":https://www.alldatasheet.com/datasheet-pdf/pdf/1035001/MPS/MP2314GJ.html    | "1":https://hz.ru.aliexpress.com/item/Free-shipping-20pcs-lot-MP2314-MP2314DJ-SOT23-8-screen-IAE-supply-chip-Authentic-Original/32823634858.html              |
-|_\4=. Ethernet PHY                                         |
-|=. IC IP101GR      |=. 32      |=. ---         | "1":https://hz.ru.aliexpress.com/store/product/5piece-100-New-IP101GR-IP101G-QFN-32-Chipset/1738577_32911838663.html              |
-|=. RTL8201F        |=. 32      |=. ---         | "1":https://hz.ru.aliexpress.com/item/100-New-SEMS20-LF-SEMS20-BGA-Chipset/32788285744.html              |
-|=. SMSC 8710A      |=. 32      |=. ---         | "1":https://hz.ru.aliexpress.com/item/20pcs-lot-LAN8710A-EZC-TR-LAN8710A-EZC-LAN8710A-8710A-QFN-32-SMSC8710A/32369627555.html              |
+|_=. Маркировка     |_=. В каталоге |_=. Aliexpress |
+|_\3=. DC/DC PWM, 5pin                              |
+|=. 9141P           |               |               |
+|=. 9141M           |               |               |
+|=. A30F            |               |               |
+|=. A3QH            |               |               |
+|=. A70D            |               |               |
+|=. A7QH            |               |               |
+|=. AJ0G            |               |               |
+|=. AJPB            |               |               |
+|=. CIDI            |               |               |
+|=. DG6X            |               |               |
+|=. FA265K          |               |               |
+|=. FA26UK          |               |               |
+|=. F40117          |               |               |
+|=. F43311          |               |               |
+|=. F45307          |               |               |
+|=. F46301          |               |               |
+|=. F59101          |               |               |
+|=. IC5EA           |               |               |
+|=. IC5ED           |               |               |
+|=. IC5FA           |               |               |
+|=. ISIK            |               |               |
+|=. LD5HV           |=. SY8088AAC   | "1":https://www.aliexpress.com/item/20PCS-SY8088AAC-SY8088AA-SY8088A-SY8088-SOT23-5/32242422836.html |
+|=. LD7LB           |               |               |
+|_\3=. DC/DC PWM, 6pin                              |
+|=. C160J           |               |               |
+|=. C16SH           |               |               |
+|=. C16ZJ           |               |               |
+|=. C20AJ           |               |               |
+|=. IADJx (D,E,G)   |=. "MP1470GJ":https://www.alldatasheet.com/datasheet-pdf/pdf/551563/MPS/MP1470GJ.html | "1":https://www.aliexpress.com/item/10pcs-lot-New-MP1470-MP1470GJ-LF-Z-SOT23-6-IADJD-IADIE-Switching-supply-chip/32894587266.html ; "2":https://ru.aliexpress.com/item/Adje-adjd-adjf-adjg-MP1470GJ-MP1470-23-6-10/32865175022.html         |
+|=. J331            |               |               |
+|=. V05             |               |               |
+|_\3=. DC/DC PWM, 8pin                              |
+|=. IAELx (F,G,H)   |=. "MP2314GJ":https://www.alldatasheet.com/datasheet-pdf/pdf/1035001/MPS/MP2314GJ.html    | "1":https://hz.ru.aliexpress.com/item/Free-shipping-20pcs-lot-MP2314-MP2314DJ-SOT23-8-screen-IAE-supply-chip-Authentic-Original/32823634858.html |
+|_\3=. Ethernet PHY, 32pin                          |
+|=. IC IP101GR      |=. ---         | "1":https://hz.ru.aliexpress.com/store/product/5piece-100-New-IP101GR-IP101G-QFN-32-Chipset/1738577_32911838663.html |
+|=. RTL8201F        |=. ---         | "1":https://hz.ru.aliexpress.com/item/100-New-SEMS20-LF-SEMS20-BGA-Chipset/32788285744.html |
+|=. SMSC 8710A      |=. ---         | "1":https://hz.ru.aliexpress.com/item/20pcs-lot-LAN8710A-EZC-TR-LAN8710A-EZC-LAN8710A-8710A-QFN-32-SMSC8710A/32369627555.html |
 
 ---
 

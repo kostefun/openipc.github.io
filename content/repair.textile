@@ -35,7 +35,7 @@ h5(. Tags: "project":/tags#project | "repair":/tags#repair
 |=. C20AJ       |=. 6       |               |               |
 |=. IADJD       |=. 6       |               |               |
 |=. IADJE       |=. 6       |               |               |
-|=. IADJG       |=. 6       |=. MP1470      | "1":https://www.aliexpress.com/item/10pcs-lot-New-MP1470-MP1470GJ-LF-Z-SOT23-6-IADJD-IADIE-Switching-supply-chip/32894587266.html "2":https://ru.aliexpress.com/item/Adje-adjd-adjf-adjg-MP1470GJ-MP1470-23-6-10/32865175022.html            |
+|=. IADJG       |=. 6       |=. MP1470      | "1":https://www.aliexpress.com/item/10pcs-lot-New-MP1470-MP1470GJ-LF-Z-SOT23-6-IADJD-IADIE-Switching-supply-chip/32894587266.html ; "2":https://ru.aliexpress.com/item/Adje-adjd-adjf-adjg-MP1470GJ-MP1470-23-6-10/32865175022.html            |
 |=. J331        |=. 6       |               |               |
 |=. V05         |=. 6       |               |               |
 |_\4=. Хрень № 3                                            |

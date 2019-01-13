@@ -31,6 +31,7 @@ h5(. Tags: "project":/tags#project | "repair":/tags#repair
 |=. LD7LB       |=. 5       |               |               |
 |_\4=. Хрень № 2                                            |
 |=. C160J       |=. 6       |               |               |
+|=. C16SH       |=. 6       |               |               |
 |=. C16ZJ       |=. 6       |               |               |
 |=. C20AJ       |=. 6       |               |               |
 |=. IADJD       |=. 6       |               |               |
@@ -39,7 +40,6 @@ h5(. Tags: "project":/tags#project | "repair":/tags#repair
 |=. J331        |=. 6       |               |               |
 |=. V05         |=. 6       |               |               |
 |_\4=. Хрень № 3                                            |
-|=. IADJE       |=. 8       |               |               |
 |=. IAELF       |=. 8       |               |               |
 |=. IAELG       |=. 8       |               |               |
 |=. IAELH       |=. 8       |               |               |

@@ -1,13 +1,15 @@
 
 h3. Детали для ремонта IPC и NVR
 
+---
 
 |_=. Маркировка |_=. Выводы |_=. В каталоге |_=. Aliexpress |
 |_\4=. Хрень №1                                             |
-|=. IC5FA       |=. 5       |               |               |
-|=. F59101      |=. 5       |               |               |
 |=. 9141P       |=. 5       |               |               |
 |=. CIDI        |=. 5       |               |               |
+|=. F59101      |=. 5       |               |               |
+|=. IC5FA       |=. 5       |               |               |
+|=. LD5HV       |=. 5       |=. SY8088AAC   | "1":https://www.aliexpress.com/item/20PCS-SY8088AAC-SY8088AA-SY8088A-SY8088-SOT23-5/32242422836.html               |
 |_\4=. Хрень № 2                                            |
 |=. C160J       |=. 6       |               |               |
 |=. IADJG       |=. 6       |=. MP1470      | "1":https://www.aliexpress.com/item/10pcs-lot-New-MP1470-MP1470GJ-LF-Z-SOT23-6-IADJD-IADIE-Switching-supply-chip/32894587266.html             |

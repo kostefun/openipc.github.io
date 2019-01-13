@@ -7,4 +7,5 @@
 |=. CIDI          |=. 5      |    
 |=. C160J         |=. 6      |
 |=. IAELF         |=. 8      |
-|=. SMSC 8710A    |=. 32     |=. Ethernet PHY |
+|_\2=. Ethernet PHY          |
+|=. SMSC 8710A    |=. 32     |

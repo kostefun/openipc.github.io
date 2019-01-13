@@ -4,10 +4,10 @@ h5(. Tags: "project":/tags#project | "repair":/tags#repair
 
 ---
 
-|_=. Маркировка |_=. Выводы |_=. В каталоге |_=. Aliexpress |
+|_=. Маркировка     |_=. Выводы |_=. В каталоге |_=. Aliexpress |
 |_\4=. Хрень №1                                             |
-|=. 9141P       |=. 5       |               |               |
-|=. 9141M       |=. 5       |               |               |
+|=. 9141P           |=. 5       |               |               |
+|=. 9141M           |=. 5       |               |               |
 |=. A30F            |=. 5       |               |               |
 |=. A3QH            |=. 5       |               |               |
 |=. A70D            |=. 5       |               |               |
@@ -34,13 +34,11 @@ h5(. Tags: "project":/tags#project | "repair":/tags#repair
 |=. C16SH           |=. 6       |               |               |
 |=. C16ZJ           |=. 6       |               |               |
 |=. C20AJ           |=. 6       |               |               |
-|=. IADJD           |=. 6       |               |               |
-|=. IADJE           |=. 6       |               |               |
-|=. IADJG           |=. 6       |=. MP1470GJ      | "1":https://www.aliexpress.com/item/10pcs-lot-New-MP1470-MP1470GJ-LF-Z-SOT23-6-IADJD-IADIE-Switching-supply-chip/32894587266.html ; "2":https://ru.aliexpress.com/item/Adje-adjd-adjf-adjg-MP1470GJ-MP1470-23-6-10/32865175022.html            |
+|=. IADJx (D,E,G)   |=. 6       |=. "MP1470GJ":https://www.alldatasheet.com/datasheet-pdf/pdf/551563/MPS/MP1470GJ.html      | "1":https://www.aliexpress.com/item/10pcs-lot-New-MP1470-MP1470GJ-LF-Z-SOT23-6-IADJD-IADIE-Switching-supply-chip/32894587266.html ; "2":https://ru.aliexpress.com/item/Adje-adjd-adjf-adjg-MP1470GJ-MP1470-23-6-10/32865175022.html            |
 |=. J331            |=. 6       |               |               |
 |=. V05             |=. 6       |               |               |
 |_\4=. Хрень № 3                                            |
-|=. IAELx (F,G,H)   |=. 8       |=. MP2314GJ    | "1":https://hz.ru.aliexpress.com/item/Free-shipping-20pcs-lot-MP2314-MP2314DJ-SOT23-8-screen-IAE-supply-chip-Authentic-Original/32823634858.html              |
+|=. IAELx (F,G,H)   |=. 8       |=. "MP2314GJ":https://www.alldatasheet.com/datasheet-pdf/pdf/1035001/MPS/MP2314GJ.html    | "1":https://hz.ru.aliexpress.com/item/Free-shipping-20pcs-lot-MP2314-MP2314DJ-SOT23-8-screen-IAE-supply-chip-Authentic-Original/32823634858.html              |
 |_\4=. Ethernet PHY                                         |
 |=. IC IP101GR      |=. 32      |=. ---         | "1":https://hz.ru.aliexpress.com/store/product/5piece-100-New-IP101GR-IP101G-QFN-32-Chipset/1738577_32911838663.html              |
 |=. RTL8201F        |=. 32      |=. ---         | "1":https://hz.ru.aliexpress.com/item/100-New-SEMS20-LF-SEMS20-BGA-Chipset/32788285744.html              |

@@ -40,10 +40,7 @@ h5(. Tags: "project":/tags#project | "repair":/tags#repair
 |=. J331        |=. 6       |               |               |
 |=. V05         |=. 6       |               |               |
 |_\4=. Хрень № 3                                            |
-|=. IAELF       |=. 8       |               |               |
-|=. IAELG       |=. 8       |               |               |
-|=. IAELH       |=. 8       |               |               |
-|=. IAELx       |=. 8       |=. MP2314GJ    | "1":https://hz.ru.aliexpress.com/item/Free-shipping-20pcs-lot-MP2314-MP2314DJ-SOT23-8-screen-IAE-supply-chip-Authentic-Original/32823634858.html              |
+|=. IAELx (FGH) |=. 8       |=. MP2314GJ    | "1":https://hz.ru.aliexpress.com/item/Free-shipping-20pcs-lot-MP2314-MP2314DJ-SOT23-8-screen-IAE-supply-chip-Authentic-Original/32823634858.html              |
 |_\4=. Ethernet PHY                                         |
 |=. IC IP101GR  |=. 32      |=. ---         | "1":https://hz.ru.aliexpress.com/store/product/5piece-100-New-IP101GR-IP101G-QFN-32-Chipset/1738577_32911838663.html              |
 |=. RTL8201F    |=. 32      |=. ---         | "1":https://hz.ru.aliexpress.com/item/100-New-SEMS20-LF-SEMS20-BGA-Chipset/32788285744.html              |

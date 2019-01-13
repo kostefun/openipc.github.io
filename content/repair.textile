@@ -46,6 +46,8 @@ h4. Наиболее часто используемые компоненты
 |=. RTL8201F        |=. ---         | "1":https://hz.ru.aliexpress.com/item/100-New-SEMS20-LF-SEMS20-BGA-Chipset/32788285744.html |
 |=. SMSC 8710A      |=. ---         | "1":https://hz.ru.aliexpress.com/item/20pcs-lot-LAN8710A-EZC-TR-LAN8710A-EZC-LAN8710A-8710A-QFN-32-SMSC8710A/32369627555.html |
 
+* SY8088 Top Mark: LD (device code: LD, x = year code, y = week code, z = lot number code)
+
 ---
 
 h4. Ссылки

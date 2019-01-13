@@ -29,7 +29,7 @@ h4. Наиболее часто используемые компоненты
 |=. IC5ED           |               |               |
 |=. IC5FA           |               |               |
 |=. ISIK            |               |               |
-|=. LD5HV           |=. SY8088AAC   | "1":https://www.aliexpress.com/item/20PCS-SY8088AAC-SY8088AA-SY8088A-SY8088-SOT23-5/32242422836.html |
+|=. LD5HV           |=. "SY8088AAC":https://datasheet.lcsc.com/szlcsc/Silergy-Corp-SY8088AAC_C79313.pdf | "1":https://www.aliexpress.com/item/20PCS-SY8088AAC-SY8088AA-SY8088A-SY8088-SOT23-5/32242422836.html |
 |=. LD7LB           |               |               |
 |_\3=. DC/DC PWM, 6pin                              |
 |=. C160J           |               |               |

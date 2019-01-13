@@ -4,6 +4,8 @@ h5(. Tags: "project":/tags#project | "repair":/tags#repair
 
 ---
 
+h4. Наиболее часто используемые компоненты
+
 |_=. Маркировка     |_=. Выводы |_=. В каталоге |_=. Aliexpress |
 |_\4=. Хрень №1                                             |
 |=. 9141P           |=. 5       |               |               |
@@ -46,7 +48,7 @@ h5(. Tags: "project":/tags#project | "repair":/tags#repair
 
 ---
 
-h3. Ссылки
+h4. Ссылки
 
 * "Таблица по опознанию и подбору аналогов микросхем БП DC/DC":http://remont-aud.net/dc_dc/
 
